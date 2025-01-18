@@ -1,4 +1,6 @@
-This is a repository to revise and maintain my knowledge of Data Structures and Algorithms
+The purpose of this repository to revise and maintain my knowledge of Data Structures and Algorithms
+**Setup of the project is still in Progress**
+**I am also learning the fundamentals and internals of TS and Node with this project**
 
 ## Execution Instructions
 
