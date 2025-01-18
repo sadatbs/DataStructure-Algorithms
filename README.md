@@ -1,7 +1,7 @@
 The purpose of this repository to revise and maintain my knowledge of Data Structures and Algorithms
 ## Notes
 - **Setup of the project is still _inProgress_**
-- **I am also learning the fundamentals and internals of TS and Node with this project**
+- **I am also experimenting with TS and Node with this project**
 
 ## Execution Instructions
 
