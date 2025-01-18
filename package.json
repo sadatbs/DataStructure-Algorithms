@@ -1,0 +1,14 @@
+{
+    "name": "typescript-runner",
+    "version": "1.0.0",
+    "description": "A project to run TypeScript files directly",
+    "main": "Main.ts",
+    "scripts": {
+        "start": "ts-node Main.ts"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "ts-node": "^10.0.0"
+    }
+}
