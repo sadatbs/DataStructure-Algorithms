@@ -2,9 +2,9 @@
     "name": "typescript-runner",
     "version": "1.0.0",
     "description": "A project to run TypeScript files directly",
-    "main": "Main.ts",
+    "main": "src/index.ts",
     "scripts": {
-        "start": "ts-node Main.ts"
+        "start": "ts-node src/index.ts"
     },
     "dependencies": {},
     "devDependencies": {
